@@ -8,8 +8,12 @@ Brief introduction of Sorting algorithm
                 - Selection Sort<br>
                 - Merge Sort<br>
                 - Heap Sort<br>
-                - Quick Sort
-            
+                - Quick Sort<br><br>
+                
+ <h3>Non-Comparison Sort</h3> - In non-comparison based sorting, elements of array are not compared with each other to find the sorted array.<br>
+                - Radix Sort<br>
+                - Counting Sort<br>
+                - Bucket Sort<br>
     
 
 
